@@ -1,5 +1,5 @@
 {
-  "name": "music-master",
+  "name": "evens-or-odds",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -16,6 +16,8 @@
     "@babel/plugin-proposal-class-properties": "^7.4.4",
     "parcel-bundler": "^1.12.3",
     "react": "^16.8.6",
-    "react-dom": "^16.8.6"
+    "react-dom": "^16.8.6",
+    "react-redux": "^7.0.3",
+    "redux": "^4.0.1"
   }
 }
